@@ -13,7 +13,6 @@
 		"lineWidth": 90,
 		"indentWidth": 4,
 		"semiColons": true,
-		"singleQuote": true,
 		"proseWrap": "preserve"
 	}
 }
