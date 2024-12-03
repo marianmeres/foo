@@ -5,9 +5,13 @@
 
 /**
  * Foo.
+ *
+ * ```ts
+ * foo(); // returns "bar"
+ * ```
  */
 export function foo(): string {
-	return 'bar';
+	return "bar";
 }
 
 if (import.meta.main) {
