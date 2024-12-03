@@ -1,6 +1,14 @@
 /**
- * A module providing a foo function.
  * @module
+ *
+ * A module providing a foo function.
+ *
+ * @example
+ * ```ts
+ * import { foo } from "@marianmeres/foo";
+ *
+ * console.log(foo()); // logs "bar"
+ * ```
  */
 
 /**
