@@ -1,2 +1,3 @@
-# foo
-JSR test package
+# @marianmeres/foo
+
+JSR test Deno package

@@ -1,0 +1,19 @@
+{
+	"name": "@marianmeres/foo",
+	"version": "1.0.0",
+	"exports": "./src/mod.ts",
+	"tasks": {
+		"dev": "deno run --watch src/mod.ts"
+	},
+	"imports": {
+		"@std/assert": "jsr:@std/assert@1"
+	},
+	"fmt": {
+		"useTabs": true,
+		"lineWidth": 90,
+		"indentWidth": 4,
+		"semiColons": true,
+		"singleQuote": true,
+		"proseWrap": "preserve"
+	}
+}
