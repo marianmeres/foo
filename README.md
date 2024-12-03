@@ -1,3 +1,3 @@
 # @marianmeres/foo
 
-JSR test Deno package
+Dummy deno jsr package.
