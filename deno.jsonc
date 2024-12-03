@@ -12,7 +12,6 @@
 		"useTabs": true,
 		"lineWidth": 90,
 		"indentWidth": 4,
-		"semiColons": true,
 		"proseWrap": "preserve"
 	}
 }
