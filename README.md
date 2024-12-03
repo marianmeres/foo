@@ -1,0 +1,2 @@
+# foo
+JSR test package
